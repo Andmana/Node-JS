@@ -17,5 +17,8 @@
     "bugs": {
         "url": "https://github.com/Andmana/Node-JS/issues"
     },
-    "homepage": "https://github.com/Andmana/Node-JS#readme"
+    "homepage": "https://github.com/Andmana/Node-JS#readme",
+    "devDependencies": {
+        "nodemon": "^3.1.10"
+    }
 }
